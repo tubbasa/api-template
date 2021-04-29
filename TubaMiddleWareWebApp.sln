@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubaMiddleWareWebApp.Service", "TubaMiddleWareWebApp.Service\TubaMiddleWareWebApp.Service.csproj", "{66490EB4-6726-46AA-8B55-FFF549CBA6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{A7F29D0E-34A1-48B5-9C92-BF28F4934864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-2", "Test-2\Test-2.csproj", "{14E89139-8EC5-4E2C-BD68-FE6CEAF0527F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66490EB4-6726-46AA-8B55-FFF549CBA6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66490EB4-6726-46AA-8B55-FFF549CBA6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66490EB4-6726-46AA-8B55-FFF549CBA6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66490EB4-6726-46AA-8B55-FFF549CBA6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F29D0E-34A1-48B5-9C92-BF28F4934864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F29D0E-34A1-48B5-9C92-BF28F4934864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F29D0E-34A1-48B5-9C92-BF28F4934864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F29D0E-34A1-48B5-9C92-BF28F4934864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E89139-8EC5-4E2C-BD68-FE6CEAF0527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E89139-8EC5-4E2C-BD68-FE6CEAF0527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E89139-8EC5-4E2C-BD68-FE6CEAF0527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E89139-8EC5-4E2C-BD68-FE6CEAF0527F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

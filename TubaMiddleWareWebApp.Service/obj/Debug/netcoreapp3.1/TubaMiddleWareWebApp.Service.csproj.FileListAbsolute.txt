@@ -1,0 +1,9 @@
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/bin/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.deps.json
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/bin/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.dll
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/bin/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.pdb
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.dll
+/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/Debug/netcoreapp3.1/TubaMiddleWareWebApp.Service.pdb

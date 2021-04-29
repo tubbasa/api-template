@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwXAvvCCX9bJufeS6ysFz/v126mo/lzF/GalIvtC4V8pwBK3QKm886fRp0a1u7ZSknFzVraQzG6+ff+redfbsA==",
+  "success": true,
+  "projectFilePath": "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/TubaMiddleWareWebApp.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/fluentvalidation/9.3.0/fluentvalidation.9.3.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/fluentvalidation.dependencyinjectionextensions/9.3.0/fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/mediatr/5.1.0/mediatr.5.1.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/5.1.0/mediatr.extensions.microsoft.dependencyinjection.5.1.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

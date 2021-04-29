@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyITJos3fGbnoNp4GpOEZFiC7DfDxgHcIWVCj+6VcPd+5s6C7gyKfEYdTv2Zga1KJwFrLgQ5EpArnuvquyeVbg==",
+  "success": true,
+  "projectFilePath": "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/Test-2/Test-2.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

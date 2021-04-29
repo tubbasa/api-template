@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/TubaMiddleWareWebApp.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/TubaMiddleWareWebApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/TubaMiddleWareWebApp.Service.csproj",
+        "projectName": "TubaMiddleWareWebApp.Service",
+        "projectPath": "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/TubaMiddleWareWebApp.Service.csproj",
+        "packagesPath": "/Users/tuba.saday/.nuget/packages/",
+        "outputPath": "/Users/tuba.saday/RiderProjects/TubaMiddleWareWebApp/TubaMiddleWareWebApp.Service/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tuba.saday/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
